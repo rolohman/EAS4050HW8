@@ -7,6 +7,5 @@ dependencies:
   - matplotlib==3.1.3
   - numpy==1.18.1
   - scipy==1.4.1
-  - geos >=3.8.0
+  - gdal
   - Cartopy==0.18.0
-  - gdal==2.2.4
