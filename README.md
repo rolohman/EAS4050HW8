@@ -1,4 +1,2 @@
-# EAS4050HW7
+# EAS4050HW8
 Plotting geotiffs
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rolohman/EAS4050HW7/main)
